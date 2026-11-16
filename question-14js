@@ -1,0 +1,113 @@
+// alert("Section D — Problem-Solving Challenge")
+// document.write("<h1>Question 14: Cinema Ticket Booking System </h1><br>")
+
+
+// var age = +prompt("Ente the age")
+
+
+
+// if (age > 0) {
+
+//     var Daytype = +prompt("Ente the Day type")
+
+//     if (age <= 5 && age > 0) {
+//         var Ticketprice = "Free"
+//         var surcharge = "Free"
+
+//     }
+//     else if (age > 5 && age <= 12) {
+//         var Ticketprice = 300
+//         var surcharge = 100
+
+//     }
+//     else if (age > 13 && age <= 59) {
+//         var Ticketprice = 700
+//         var surcharge = 100
+
+//     }
+//     else if (age > 60) {
+//         var Ticketprice = 400
+//         var surcharge = 100
+
+//     }
+
+//     document.write("<br><b> Base Ticket Price: Rs. " + Ticketprice)
+//     document.write("<br><b> Weekend Surcharge: Rs. " + surcharge)
+//     document.write("<br><b> Final Ticket Price: Rs. " + (Ticketprice + surcharge))
+
+
+
+
+
+
+    
+
+
+
+
+
+// } else {
+// Sei Dorei Gakuen 2 
+//     document.write("Enter the valid age")
+// }
+
+
+
+
+
+my naos is abdul rauf and hoe   my home is on earth the planet that are made from mistake make by our univers
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
